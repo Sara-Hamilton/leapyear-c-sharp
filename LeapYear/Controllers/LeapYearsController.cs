@@ -1,12 +1,12 @@
 using System.Collections.Generic;
 using System;
 using Microsoft.AspNetCore.Mvc;
-using LeapYear.Models;
+// using LeapYear.Models;
 
 namespace LeapYear.Controllers
 {
-  public class LeapYearsController : Controller
+  public class LeapYearController : Controller
   {
-    
+
   }
 }
